@@ -80,3 +80,7 @@ streamlit run app/app.py
 
 - A **sample dataset** (~10k rows) is included in this repo: `data/Traffic_Violations_sample.csv`  
 - **Note:** The full dataset (~1M rows) was used locally for analysis. The sample dataset is included here for demonstration and reproducibility.
+
+👤 Author
+
+Indupriya Chidambararaj
